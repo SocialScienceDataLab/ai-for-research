@@ -11,7 +11,7 @@ Ever noticed how phrases like 'delve into', "revolutionise", and 'embark on' hav
 In my talk, I'm going to walk you through stages of the research process and introduce you to existing AI tools that can assist you in formulating your research question, finding relevant literature, reading selected papers, analysing data, proofreading your writing, getting feedback and presenting your findings. Additionally, tools like ChatGPT can also be used to support tasks that are not directly related to research in larger projects (such as developing visual identity, creating catchy acronyms, and communication strategies). And last but not least, ChatGPT can be a motivational coach to help with writing anxiety and overcoming perfectionism in the first place.
 Join me to learn how we can collaborate with AI to become better at the craft of research.
 
-📝 [Slides]([https://github.com/SocialScienceDataLab/models-all-the-way/blob/main/mzes_slides.pdf](https://github.com/SocialScienceDataLab/ai-for-research/blob/main/AI%20Tools%20for%20Researchers%20-%202024-04-17%2015.57.26.pdf))
+📝 [Slides]([https://github.com/SocialScienceDataLab/models-all-the-way/blob/main/mzes_slides.pdf](https://github.com/SocialScienceDataLab/ai-for-research/blob/main/AI%20Tools%20for%20Researchers%20-%202024-04-17%2015.57.26.pdf)
 
 ## About the Instructors
 
